@@ -1,16 +1,19 @@
-## Hi there 👋
+# Pietro Scorza 👋
+## __Estudiant__
 
-<!--
-**pietroscorza1/pietroscorza1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**En aquest fixer parlare sobre mi**
 
-Here are some ideas to get you started:
+**Estic estudiant** ***desenvolupament de aplicacions multiplataforma***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Llenguatges que se utilitzar
+
+* Java
+* JavaScript
+* Dart
+
+Frameworks que se utilitzar
+* React
+* tailwind
+* flutter
+
+Pronombres: he/him
